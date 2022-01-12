@@ -23,6 +23,7 @@
 ![img](/imgs/freq.PNG)
 
 **2.3 When Freq is already adjusted in configuration as in second image**
+
 ![img](/imgs/f2.PNG) 
 
 ![img](/imgs/debug_2.PNG)
