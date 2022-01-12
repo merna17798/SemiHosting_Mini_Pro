@@ -21,6 +21,7 @@
 > **Note:** Freq in Connection Setup depends on your own MCU So keep your eye on console when debug session starts as it will provide you with the info if you need to adjust freq in debug configuration
 **2.2 Autoadjust from ST-Link to the required freq**
 ![img](/imgs/freq.PNG)
+
 **2.3 When Freq is already adjusted in configuration as in second image**
 ![img](/imgs/f2.PNG) 
 
