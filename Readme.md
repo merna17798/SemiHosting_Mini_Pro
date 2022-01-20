@@ -30,10 +30,19 @@
 ### **3. Paths and Symbols Configurations**
 ![img](/imgs/paths.PNG)
 ### **4. STARTUP Configurations**
+```
+monitor arm semihosting enable
+```
 ![img](/imgs/startup.PNG)
 ### **5. Tool Settings-->Liberaries**
+```
+rdimon
+```
 ![img](/imgs/rdimon.PNG)
 ### **6. Tool Settings-->Miscellaneous**
+```
+--specs=rdimon.specs
+```
 ![img](/imgs/flag.PNG)
 ### **7. Clock Configurations**
 ![img](/imgs/clock.PNG)
